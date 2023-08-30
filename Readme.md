@@ -1,4 +1,4 @@
-Servicecamp Image target script
+Teamviewer Servicecamp Image target script
 =========
 
 This tampermonkey script adds an a href tag to all internal images in Teamviewer Servicecampo tickets so it's easier to view inline images.
